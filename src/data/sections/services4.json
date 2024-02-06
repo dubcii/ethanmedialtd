@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Brand Identity",
+        "icon": "pe-7s-gleam",
+        "content": "We create works that will trigger impact on brand vision, taking into account competitions and trends. Increase brand value through planning and execution from web to print."
+    },
+    {
+      "id": 2,
+      "title": "Public Relations",
+      "icon": "pe-7s-phone",
+      "content": "Build and maintain a positive brand relationship with customers, stakeholders and potential clients. "
+    },
+    {
+      "id": 3,
+      "title": "Package Design",
+      "icon": "pe-7s-paperclip",
+      "content": "Connect customers to brands with exquisite product designs and brochures that are attractive, durable and cost effective."
+    },
+    {
+      "id": 4,
+      "title": "Presentations",
+      "icon": "pe-7s-magic-wand",
+      "content": "Shape visually engaging presentations in various formats like powerpoint keynote and PDF. "
+    },
+    {
+      "id": 5,
+      "title": "Video Production",
+      "icon": "pe-7s-magic-wand",
+      "content": "Ideal  planning and execution of video content and animation for various platforms and purposes."
+    },
+    
+    {
+      "id": 5,
+      "title": "Copywriting",
+      "icon": "pe-7s-magic-wand",
+      "content": "Improve marketing strategy by creating stories/taglines that reflects brands mission to their target audience."
+    }
+   
+   
+    
+]

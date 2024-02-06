@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Where Your Ideas",
+      "second": "Come To Life"
+    },
+    "content": "To create works that will trigger an impact on brand vision and connect with their audience via a distinctive and authentic brand identity. .",
+    "image": "/img/slid/01.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Brand Launch and",
+      "second": "Management"
+    },
+    "content": "Using the right tactics to increase brand value and keep a positive reputation, Plan and execute your entry into the market with the right and positioning. ",
+    "image": "/img/slid/03.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Market Research",
+    "content": "Gathering intel and insights about the potential customer base prior to any brand or marketing related activity strategy.develop a long term plan for the development of your brand in order to achieve your goals and objectives.",
+    "image": "/img/slid/02.jpg"
+  }
+]

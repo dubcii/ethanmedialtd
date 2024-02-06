@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "icon": "pe-7s-smile",
+    "txt": "Happy Clients",
+    "value": "127"
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-portfolio",
+    "txt": "Completed Projects",
+    "value": "133"
+  },
+ 
+  {
+    "id": 4,
+    "icon": "pe-7s-medal",
+    "txt": "Ongoing Projects",
+    "value": "46"
+  }
+]
