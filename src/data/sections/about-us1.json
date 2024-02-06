@@ -1,7 +1,7 @@
 {
   "id": 1,
   "image1": "/img/intro/1.jpg",
-  "image2": "/img/intro/3.jpg",
+  "image2": "/img/3.jpg",
   "image3": "/img/intro/2.jpg",
   "smallTitle": "About Us",
   "title": { "first": "Creativity and innovation", "second": "at its very best" },
