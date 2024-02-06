@@ -28,7 +28,7 @@ const Footer = () => {
               <div className="con-info custom-font">
                 <ul>
                   <li>
-                    <span>Email : </span> Avo_support@website.com
+                    <span>Email : </span> Ethanmediagency@gmail.com
                   </li>
                   <li>
                     <span>Address : </span> Suite 718A, Mulliner Towers, 39 Alfred Rewane Road,
